@@ -1,16 +1,38 @@
-# biodata
+# Biodata Firebase Flutter
 
-A new Flutter project.
+Proyek ini adalah aplikasi Flutter yang menggunakan Firebase untuk menyimpan dan mengelola data biodata.
 
-## Getting Started
+<img src="https://github.com/Mifta24/biodata_firebase_flutter/blob/main/Biodata.jpg" alt="Biodata" width="400px">
 
-This project is a starting point for a Flutter application.
+## Fitur
 
-A few resources to get you started if this is your first Flutter project:
+- Menambahkan, mengedit, dan menghapus biodata
+- Integrasi dengan Firebase untuk penyimpanan data
+- Antarmuka pengguna yang responsif dan mudah digunakan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/Mifta24/biodata_firebase_flutter.git
+   ```
+2. Navigasikan ke direktori proyek:
+   ```bash
+   cd biodata_firebase_flutter
+   ```
+3. Instal dependensi:
+   ```bash
+   flutter pub get
+   ```
+4. Jalankan aplikasi:
+   ```bash
+   flutter run
+   ```
+
+## Kontribusi
+
+Kontribusi sangat diterima! Silakan buat pull request untuk perbaikan bug, fitur baru, atau peningkatan.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah lisensi MIT. Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
